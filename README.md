@@ -4,4 +4,4 @@ Ghatsila is my home town where there are lots of tourist places to visit so in t
 
 #visit the website
 
-https://rohitsen223.github.io/Best-places-to-visit-in-ghatsila/index.html
+https://rohitsen223.github.io/Best-places-to-visit-in-ghatsila/Index.html
